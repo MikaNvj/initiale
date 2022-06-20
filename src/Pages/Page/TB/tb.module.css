@@ -1,0 +1,76 @@
+.tb{
+    width: 75vw;
+    height: 90vh;
+    transform: translateY(10vh);
+    margin-left: 25vw;
+    background-color: rgb(235, 235, 235);
+    align-items: center;
+    text-align: center;
+}
+.tbh1{
+    padding-top: 45px;
+    font-size: 45px;
+    padding-bottom: 45px;
+    color: rgb(224, 68, 68);
+
+}
+.tbcont{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+}
+.tbcont div{
+    margin-left: 35px;
+    width: 27%;
+    height: 40vh;
+    background-color: rgb(224, 224, 224);
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 5px rgba(88, 88, 88, 0.26);
+    padding-top: 25px;
+}
+.tbcont div p{
+    font-size: 55px;
+    margin: 25px 0px;
+}
+.tbcont div button{
+    width: 80%;
+    height: 40px;
+    border: none;
+    color: white;
+    background-color: rgb(224, 68, 68);
+    margin-top: 28px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-size: 16px;
+    border-radius: 5px;
+}
+.tbbottom{
+    display: flex;
+    justify-content: right;
+    gap: 15px;
+    margin: 45px 40px 0px 0px;
+}
+.tbbottom p{
+    margin-top: 10px;
+}
+.tbbottom form{
+    display: flex;
+    gap: 15px;
+}
+.tbbottom form input{
+    width: 25vw;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+}
+.tbbottom form button{
+    width: 15vw;
+    height: 40px;
+    color: white;
+    background-color: rgb(2, 18, 109);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

@@ -1,0 +1,17 @@
+.nav{
+    height: 10vh;
+    width: 75%;
+    margin-left: 25vw;
+    background-color: rgb(0, 4, 17);
+    position: fixed;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+}
+.navh1{
+    margin: 10px 45px;
+}
+.out{
+    margin: 10px 45px 0px 0px;
+    cursor: pointer;
+}

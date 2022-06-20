@@ -1,0 +1,7 @@
+.imp{
+    width: 75vw;
+    height: 90vh;
+    transform: translateY(10vh);
+    margin-left: 25vw;
+    background-color: rgb(238, 238, 238);
+}

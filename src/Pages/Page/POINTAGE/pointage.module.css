@@ -1,0 +1,8 @@
+.pointage{
+    width: 75vw;
+    height: 90vh;
+    transform: translateY(10vh);
+    margin-left: 25vw;
+    background-color: rgb(235, 235, 235);
+    transition: 0.3s;
+}
